@@ -39,7 +39,8 @@ vi)Sequence Diagram
 <img width="1065" height="812" alt="image" src="https://github.com/user-attachments/assets/a0d1e2a9-63bd-48cd-b412-c3adccf73d90" />
 
 # SEQUENCE DIAGRAM
-<img width="890" height="1037" alt="image" src="https://github.com/user-attachments/assets/9a6fdc71-d1ba-4c89-89b5-77c99299d622" />
+<img width="913" height="795" alt="image" src="https://github.com/user-attachments/assets/aa8ee0b2-cdc6-4ff5-8272-4101f013940c" />
+
 
 # RESULT:
 Thus the "ATM & BANKING SYSTEM" project created,executed & the output was verified.
